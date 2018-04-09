@@ -1,3 +1,3 @@
 # scipro_course
 
-python intro course
+python intro course at FU 
