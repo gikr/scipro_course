@@ -1,3 +1,3 @@
 # scipro_course
 
-python intro course at FU by Christoph Wehmeyer 
+python intro course at FU 
